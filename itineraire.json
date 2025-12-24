@@ -1,0 +1,92 @@
+{
+  "pays": "Iles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Évasion Naturelle aux Îles Féroé : Fjords, Falaises et Sérénité",
+  "budget_total": "990 €",
+  "duree": "3 jours",
+  "temps_vol": "4h30 (depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douce Immersion à Vágar",
+      "legende": "Après votre vol, prenez le temps de vous installer et de découvrir les paysages emblématiques de l'île de Vágar, porte d'entrée des Féroé. Flânez dans ses villages pittoresques et admirez ses vues imprenables sur l'océan pour débuter le voyage en douceur.",
+      "lieu": "Vágar",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Vágar (FAE)</strong>: Récupération de la voiture de location et route vers l'hébergement.",
+        "🚶‍♀️ <strong>Balade au village de Gásadalur</strong>: Admirez la célèbre cascade de Múlafossur se jetant dans l'océan, un spectacle apaisant et emblématique des Féroé.",
+        "🍽️ <strong>Dîner traditionnel féroïen</strong>: Savourez la cuisine locale dans un restaurant cosy de Sørvágur ou Miðvágur."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "La location de voiture est essentielle pour explorer les Féroé. Réservez à l'avance, surtout en haute saison, pour garantir la disponibilité et de meilleurs tarifs."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Lacs Suspendus et Vues Panoramiques",
+      "legende": "Explorez des paysages uniques où les lacs semblent suspendus au-dessus de l'océan, offrant des panoramas à couper le souffle. Profitez de balades douces au cœur d'une nature préservée et découvrez l'histoire locale.",
+      "lieu": "Vágar / Streymoy",
+      "activites": [
+        "🚶‍♀️ <strong>Randonnée facile au lac Sørvágsvatn (Leitisvatn)</strong>: Découvrez le \"lac suspendu\" et la cascade de Bøsdalafossur, une balade accessible avec des vues spectaculaires.",
+        "🚗 <strong>Traversée vers Streymoy et Kirkjubøur</strong>: Visitez le site historique de Kirkjubøur, l'un des plus anciens villages des Féroé, avec sa cathédrale inachevée et sa ferme royale.",
+        "☕ <strong>Pause détente à Tórshavn</strong>: Profitez d'un café ou d'une balade tranquille dans la capitale la plus petite du monde, Tórshavn, et ses charmantes ruelles."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Météo",
+          "texte": "Le temps peut changer rapidement aux Féroé. Prévoyez des couches de vêtements et un imperméable, même pour une balade douce, afin d'être paré à toute éventualité."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🚢",
+      "titre": "Découverte Côtière et Envol",
+      "legende": "Avant de prendre votre vol retour, profitez d'une dernière immersion dans les paysages côtiers dramatiques des Féroé, avec leurs falaises abruptes et leurs colonies d'oiseaux marins. Un adieu mémorable à cette nature grandiose.",
+      "lieu": "Streymoy / Vágar",
+      "activites": [
+        "🚗 <strong>Route panoramique vers Saksun</strong>: Explorez le village isolé de Saksun, niché dans une crique naturelle, avec ses maisons aux toits d'herbe et sa lagune.",
+        "🚶‍♀️ <strong>Balade à Tjørnuvík</strong>: Admirez les stacks marins \"Risin et Kellingin\" depuis cette plage de sable noir, un lieu paisible pour observer la puissance de l'océan.",
+        "🛬 <strong>Retour à l'aéroport de Vágar (FAE)</strong>: Restitution de la voiture et vol retour vers Paris."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Prévoyez suffisamment de temps pour les trajets vers l'aéroport, les routes peuvent être sinueuses et les conditions météorologiques imprévisibles, surtout en montagne."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "258 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "120 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "300 €/pers (3 jours, type moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "280 €/pers (3 nuits, type 3 étoiles)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "30 €/pers (entrées mineures, parkings)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Mai à Septembre", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "Les températures varient de 8 à 15°C en été. Prévoir des vêtements chauds, imperméables et coupe-vent, même en saison estivale.", "symbole": "🍁" },
+    { "titre": "La monnaie est la Couronne féroïenne (DKK), liée à la Couronne danoise. Les cartes de crédit sont largement acceptées. Quelques couronnes danoises peuvent être utiles.", "symbole": "💳" },
+    { "titre": "Permis français suffisant pour la location de voiture. Conduite à droite, attention aux moutons sur les routes et aux tunnels sous-marins payants.", "symbole": "🚗" },
+    { "titre": "Le réseau mobile est bon dans les zones habitées. Le Wi-Fi est disponible dans la plupart des hébergements et restaurants.", "symbole": "📶" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FAE/2026-05-15/2026-05-18", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Faroe Islands", "url": "https://visitfaroeislands.com/", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Rentalcars Iles Féroé", "url": "https://www.rentalcars.com/fr/country/fo/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "Météo Féroé (Yr.no)", "url": "https://www.yr.no/en/forecast/daily-table/2-2610612/Faroe%20Islands/V%C3%A1gar/S%C3%B8rv%C3%A1gur", "symbole": "🌤️" }
+  ]
+}
